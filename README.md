@@ -1,10 +1,11 @@
-# ISolid
+<img width="1902" height="892" alt="image" src="https://github.com/user-attachments/assets/fa4620fc-f7a0-402f-8668-0a27790f4e72" /># ISolid
 
 **把脑子里一闪而过的模糊想法，变成可落地的 PRD + 行动清单。ISolid 就像是一个不让你想法烂在脑子里的督促者**
 不只是记录，而是问清楚 + 写清楚 + 跟下去：
 
 ISolid 就像是一个懂产品的朋友，帮你把模糊的想法问清楚、整理成计划、还会定期问你做到哪了。
 > 现已开放内测 → [isolid.p1pi.me](https://isolid.p1pi.me)
+<img width="1902" height="892" alt="image" src="https://github.com/user-attachments/assets/fb16c8b6-0e63-48b4-8505-9d1086be0a08" />
 
 ---
 
