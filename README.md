@@ -1,4 +1,4 @@
-# ISolid
+<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/975d9a22-6746-4795-ab0a-62f9354445d0" /># ISolid
 
 **把脑子里一闪而过的模糊想法，变成可落地的 PRD + 行动清单。ISolid 就像是一个不让想法烂在你脑子里的督促者**
 不只是记录，而是问清楚 + 写清楚 + 跟下去：
@@ -42,22 +42,28 @@ AI 动态追问（每轮 5 题，多选 + 自由填写）
 ## 截图
 
 ### 输入想法
-![输入想法](screenshots/01_input.png)
+<img width="1918" height="911" alt="屏幕截图 2026-05-12 152445" src="https://github.com/user-attachments/assets/29d3d5a6-a45b-4144-9007-ac26ef48d15d" />
 
 ### AI 追问
-![AI 追问](screenshots/02_question.png)
+<img width="1915" height="908" alt="屏幕截图 2026-05-12 152727" src="https://github.com/user-attachments/assets/a1db3e5e-826b-450b-bec1-e065ecfb5db3" />
+<img width="1918" height="907" alt="屏幕截图 2026-05-12 152832" src="https://github.com/user-attachments/assets/3c6b3336-958f-42fc-ae09-22ef245fbdb3" />
 
 ### 精简预览 · 选热情度
-![精简预览](screenshots/03_preview.png)
+<img width="1918" height="912" alt="屏幕截图 2026-05-12 152940" src="https://github.com/user-attachments/assets/470676e4-00ef-4bfa-a357-b5410fc69d83" />
+
+
+
 
 ### PRD 详细版
-![PRD](screenshots/04_prd.png)
+<img width="1901" height="908" alt="屏幕截图 2026-05-12 153115" src="https://github.com/user-attachments/assets/f9a1f396-d5e9-4839-bef5-d277c2620e18" />
 
 ### GTD Todo 清单
-![Todo](screenshots/05_todo.png)
+<img width="1896" height="906" alt="屏幕截图 2026-05-12 153139" src="https://github.com/user-attachments/assets/a7e35f2b-92ac-4ead-805c-dac08249ba39" />
+
 
 ### 收件箱 · 进度问询
-![收件箱](screenshots/06_inbox.png)
+<img width="1918" height="908" alt="屏幕截图 2026-05-12 153223" src="https://github.com/user-attachments/assets/2ff39cba-c28e-4986-8f50-3dd84c7302e6" />
+
 
 ---
 
