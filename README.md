@@ -1,4 +1,4 @@
-<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/975d9a22-6746-4795-ab0a-62f9354445d0" /># ISolid
+# ISolid
 
 **把脑子里一闪而过的模糊想法，变成可落地的 PRD + 行动清单。ISolid 就像是一个不让想法烂在你脑子里的督促者**
 不只是记录，而是问清楚 + 写清楚 + 跟下去：
